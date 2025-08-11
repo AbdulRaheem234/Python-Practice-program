@@ -1,0 +1,4 @@
+name,email,birthday,whatsapp_number
+John,john@example.com,2000-08-15,+1234567890
+Alice,alice@example.com,1995-03-22,+1987654321
+Bob,bob@example.com,1998-12-10,
